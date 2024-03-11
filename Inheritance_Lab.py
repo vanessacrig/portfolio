@@ -1,8 +1,7 @@
 #Inheritance Lab.py
-#IT1114/ W03
+
 #Vanessa Crighton
-#Lab 7
-#10/16/2022
+
 #Purpose: to create a parent class that is to be inherited by two child classes.
 
 
