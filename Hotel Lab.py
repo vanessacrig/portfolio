@@ -1,10 +1,9 @@
 # Hotel Lab.py
-#IT1114/W03
+
 #Vanessa Crighton
-#Lab 4
-# 09/18/2022
+
 #This program determines the cost of a hotel stay to include meals and excursions.
-#Resources: Module 5 lecture, Ex10 - Ex13, chegg
+
 
 
 
